@@ -1,0 +1,8 @@
+streamlit
+lancedb
+openai
+instructor
+pydantic
+typing
+asyncio
+tantivy
